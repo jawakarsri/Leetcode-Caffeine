@@ -40,3 +40,34 @@ class Solution {
  * - The space required to store all subsets is proportional to the number of subsets, which is 2^n.
  */
 
+/*
+ * Approach:
+ * - Start with an empty subset.
+ * - For each number in the input array, add it to all existing subsets to create new subsets.
+ * - Add these new subsets to the result list.
+ *
+ * Time Complexity: O(2^n)
+ * - Each element can either be included or excluded from a subset, leading to 2^n subsets.
+ * - For each subset, creating a new subset takes O(n) time in the worst case.
+ *
+ * Space Complexity: O(2^n)
+ * - The space required to store all subsets is proportional to the number of subsets, which is 2^n.
+ */
+
+class Solution {
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> result = new ArrayList<>();
+        backtrack(result, new ArrayList<>(), nums, 0);
+        return result;
+    }
+
+    private void backtrack(List<List<Integer>> result, List<Integer> tempList, int[] nums, int start) {
+        result.add(new ArrayList<>(tempList));
+        for (int i = start; i < nums.length; i++) {
+            tempList.add(nums[i]);
+            // Recursively call backtrack to generate all possible subsets
+            backtrack(result, tempList, nums, i + 1);
+            tempList.remove(tempList.size() - 1);
+        }
+    }
+}
