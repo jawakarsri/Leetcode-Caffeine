@@ -18,4 +18,12 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2201-valid-arrangement-of-pairs) |
+## Array
+|  |
+| ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+## Binary Search
+|  |
+| ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 <!---LeetCode Topics End-->
