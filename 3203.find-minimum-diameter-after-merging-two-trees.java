@@ -62,5 +62,21 @@ class Solution {
     }
 }
 
+/*
+ * Approach:
+ * 1. Calculate the diameter of both trees individually.
+ * 2. The minimum diameter after merging two trees is the maximum of the two diameters plus the longest path between the two trees.
+ * 
+ * Time Complexity:
+ * - Building the adjacency list: O(N) where N is the number of nodes.
+ * - Kahn's algorithm to find the longest path: O(N).
+ * - Overall: O(N).
+ * 
+ * Space Complexity:
+ * - Adjacency list: O(N).
+ * - Degree array: O(N).
+ * - Queue for Kahn's algorithm: O(N).
+ * - Overall: O(N).
+ */
 // @lc code=end
 
