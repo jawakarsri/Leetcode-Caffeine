@@ -6,6 +6,16 @@
 
 // @lc code=start
 class Solution {
+    /**
+     * Approach:
+     * 1. Calculate the prefix sum of the array.
+     * 2. Use dynamic programming to find the best subarray for the left and right sides.
+     * 3. Iterate through the middle subarray and calculate the total sum of three subarrays.
+     * 4. Keep track of the maximum sum and the corresponding indices.
+     *
+     * Time Complexity: O(n)
+     * Space Complexity: O(n)
+     */
     public int[] maxSumOfThreeSubarrays(int[] nums, int k) {
         int n = nums.length;
         int[] sum = new int[n + 1];
