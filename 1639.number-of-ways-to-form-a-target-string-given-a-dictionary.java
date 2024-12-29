@@ -8,6 +8,15 @@ import java.util.Arrays;
 
 // @lc code=start
 class Solution {
+    /**
+     * Approach:
+     * - Use dynamic programming to count the number of ways to form the target string.
+     * - Precompute the frequency of each character at each position in the words array.
+     * - Use a recursive function with memoization to calculate the number of ways.
+     *
+     * Time Complexity: O(m * n * t) where m is the length of words[0], n is the number of words, and t is the length of the target string.
+     * Space Complexity: O(m * t) for the dp array and O(m * 26) for the frequency array.
+     */
     public int numWays(String[] words, String target) {
         int n = words.length;
         int m = words[0].length();
