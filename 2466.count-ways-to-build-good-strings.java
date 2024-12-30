@@ -30,3 +30,15 @@ class Solution {
 }
 // @lc code=end
 
+/*
+ * Approach:
+ * - Use dynamic programming to count the number of good strings.
+ * - dp[i] represents the number of ways to build a string of length i.
+ * - Initialize dp[0] to 1 because there is one way to build an empty string.
+ * - For each length from 1 to high, update dp[i] by adding the number of ways to build strings of length (i - zero) and (i - one).
+ * - Sum up the number of ways to build strings from length low to high.
+ *
+ * Time Complexity: O(n) where n is the value of 'high'.
+ * Space Complexity: O(n) where n is the value of 'high'.
+ */
+
