@@ -34,3 +34,14 @@ class Solution {
 }
 // @lc code=end
 
+/*
+Approach:
+1. Use dynamic programming to keep track of the minimum cost up to each day.
+2. Create an array `dp` where `dp[i]` represents the minimum cost to cover all travel days up to day `i`.
+3. Create a boolean array `travelDays` to mark the days that are travel days.
+4. Iterate through each day up to the last travel day:
+   - If the day is not a travel day, the cost remains the same as the previous day.
+   - Otherwise, calculate the minimum cost by considering the cost of 1-day, 7-day, and 30-day passes.
+5. Return the minimum cost for the last travel day.
+*/
+
