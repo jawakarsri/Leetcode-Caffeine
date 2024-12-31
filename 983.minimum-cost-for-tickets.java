@@ -7,6 +7,10 @@
 // @lc code=start
 class Solution {
     public int mincostTickets(int[] days, int[] costs) {
+        // Time complexity: O(n + D)
+        // Space complexity: O(D)
+        // where n is the number of travel days and D is the last travel day
+        
         int lastDay = days[days.length - 1];
         int[] dp = new int[lastDay + 1];
         boolean[] travelDays = new boolean[lastDay + 1];
