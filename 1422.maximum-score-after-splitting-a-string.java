@@ -35,3 +35,13 @@ class Solution {
 }
 // @lc code=end
 
+/*
+ * Approach:
+ * Iterate through the string and split it at every possible position.
+ * Calculate the score for each split by counting zeros in the left part and ones in the right part.
+ * Keep track of the maximum score encountered.
+ *
+ * Time Complexity: O(n^2) - We iterate through the string and for each split, we count zeros and ones.
+ * Space Complexity: O(1) - We use a constant amount of extra space.
+ */
+
