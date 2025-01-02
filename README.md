@@ -21,6 +21,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0049-group-anagrams) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -71,5 +72,14 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0049-group-anagrams) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2691-count-vowel-strings-in-ranges) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
