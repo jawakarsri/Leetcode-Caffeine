@@ -22,6 +22,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3427-special-array-ii) |
 ## Binary Search
@@ -33,6 +34,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Prefix Sum
 |  |
 | ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3427-special-array-ii) |
 ## Stack
 |  |
@@ -66,4 +68,8 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## String
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
