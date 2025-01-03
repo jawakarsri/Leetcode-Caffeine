@@ -26,3 +26,14 @@ class Solution {
 }
 // @lc code=end
 
+/*
+ * Approach:
+ * 1. Calculate the total sum of the array.
+ * 2. Iterate through the array, maintaining a running sum for the left part.
+ * 3. For each position, check if the left sum is greater than or equal to the right sum.
+ * 4. Count the number of valid splits.
+ *
+ * Time Complexity: O(n) - We iterate through the array twice.
+ * Space Complexity: O(1) - We use a constant amount of extra space.
+ */
+
