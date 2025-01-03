@@ -7,21 +7,21 @@
 // @lc code=start
 class Solution {
     public int waysToSplitArray(int[] nums) {
-        long totalSum = 0;
+        long leftSum = 0, rightSum = 0;
         for (int num : nums) {
-            totalSum += num;
+            rightSum += num;
         }
-        
-        long leftSum = 0;
-        int ways = 0;
+
+        int validSplits = 0;
         for (int i = 0; i < nums.length - 1; i++) {
             leftSum += nums[i];
-            if (leftSum >= totalSum - leftSum) {
-                ways++;
+            rightSum -= nums[i];
+            if (leftSum >= rightSum) {
+                validSplits++;
             }
         }
-        
-        return ways;
+
+        return validSplits;
     }
 }
 // @lc code=end
