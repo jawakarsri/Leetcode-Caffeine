@@ -30,3 +30,16 @@ class Solution {
 }
 // @lc code=end
 
+/*
+ * Approach:
+ * - Iterate through each character from 'a' to 'z'.
+ * - For each character, find its first and last occurrence in the string.
+ * - If the character appears at least twice and there are characters in between,
+ *   collect all unique characters between the first and last occurrence.
+ * - Form palindromic subsequences with the collected characters and add them to a set.
+ * - Return the size of the set, which represents the number of unique length-3 palindromic subsequences.
+ *
+ * Time Complexity: O(26 * n) = O(n), where n is the length of the string.
+ * Space Complexity: O(26 + n) = O(n), for storing the set of palindromes and unique characters.
+ */
+
