@@ -34,3 +34,14 @@ class Solution {
 }
 // @lc code=end
 
+/*
+ * Approach:
+ * 1. Create an array to store the net shift amount for each character.
+ * 2. Iterate through the shifts and update the shift amount array.
+ * 3. Compute the prefix sum of the shift amount array.
+ * 4. Apply the shifts to the string and construct the result.
+ *
+ * Time Complexity: O(n + m), where n is the length of the string and m is the number of shifts.
+ * Space Complexity: O(n), where n is the length of the string.
+ */
+
