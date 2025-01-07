@@ -22,6 +22,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0049-group-anagrams) |
+| [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
 | [1524-string-matching-in-an-array](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1524-string-matching-in-an-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -92,8 +93,17 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0049-group-anagrams) |
+| [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
 ## String Matching
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1524-string-matching-in-an-array) |
+## Math
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
