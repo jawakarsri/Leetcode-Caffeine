@@ -104,6 +104,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0050-powx-n) |
 | [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
 ## Greedy
 |  |
@@ -121,4 +122,8 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
