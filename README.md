@@ -82,6 +82,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1524-string-matching-in-an-array) |
@@ -110,6 +111,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0050-powx-n) |
 | [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
 ## Greedy
@@ -132,4 +134,8 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
