@@ -50,6 +50,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Stack
 |  |
 | ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
@@ -87,6 +88,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [0952-word-subsets](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -118,6 +120,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Trie
 |  |
 | ------- |
