@@ -30,6 +30,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [2292-counting-words-with-a-given-prefix](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3427-special-array-ii) |
@@ -101,6 +102,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | ------- |
 | [0049-group-anagrams](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0952-word-subsets) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sorting
@@ -160,4 +162,5 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0067-add-binary) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
