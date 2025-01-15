@@ -129,6 +129,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2509-minimize-xor) |
 ## Trie
 |  |
 | ------- |
@@ -162,5 +163,6 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0067-add-binary) |
+| [2509-minimize-xor](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
