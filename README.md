@@ -24,6 +24,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [0049-group-anagrams](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1524-string-matching-in-an-array](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1524-string-matching-in-an-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -125,6 +126,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [0067-add-binary](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0445-add-two-numbers-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Greedy
 |  |
 | ------- |
@@ -171,4 +173,8 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
