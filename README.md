@@ -13,6 +13,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -25,6 +26,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [0952-word-subsets](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1524-string-matching-in-an-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -68,6 +70,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
@@ -80,6 +83,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
@@ -179,4 +183,12 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1349-check-if-it-is-a-straight-line) |
+## Matrix
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
