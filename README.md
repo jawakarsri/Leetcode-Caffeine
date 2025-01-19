@@ -131,6 +131,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0067-add-binary) |
@@ -158,6 +159,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0050-powx-n) |
 ## Simulation
 |  |
@@ -167,6 +169,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0445-add-two-numbers-ii) |
 ## Counting
 |  |
