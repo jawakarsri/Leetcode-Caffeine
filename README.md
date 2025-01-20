@@ -34,6 +34,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [2292-counting-words-with-a-given-prefix](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2792-neighboring-bitwise-xor) |
@@ -113,6 +114,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | ------- |
 | [0049-group-anagrams](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0952-word-subsets) |
+| [2685-first-completely-painted-row-or-column](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -196,6 +198,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
 | ------- |
