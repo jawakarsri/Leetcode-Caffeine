@@ -9,6 +9,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Depth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2201-valid-arrangement-of-pairs) |
 ## Graph
 |  |
@@ -27,6 +28,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [0952-word-subsets](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1396-count-servers-that-communicate](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1876-map-of-highest-peak) |
@@ -90,6 +92,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1876-map-of-highest-peak) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -180,6 +183,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1396-count-servers-that-communicate) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
@@ -201,6 +205,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2145-grid-game) |
@@ -209,4 +214,8 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
