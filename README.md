@@ -9,11 +9,13 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Depth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2201-valid-arrangement-of-pairs) |
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
@@ -92,6 +94,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0407-trapping-rain-water-ii) |
+| [0820-find-eventual-safe-states](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1876-map-of-highest-peak) |
@@ -218,4 +221,8 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
