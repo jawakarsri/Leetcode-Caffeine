@@ -40,6 +40,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2145-grid-game) |
