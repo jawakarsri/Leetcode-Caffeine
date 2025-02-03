@@ -53,6 +53,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [2792-neighboring-bitwise-xor](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3429-special-array-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
