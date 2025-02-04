@@ -43,6 +43,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2465-shifting-letters-ii) |
