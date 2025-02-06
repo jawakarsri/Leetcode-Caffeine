@@ -36,6 +36,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [0952-word-subsets](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1364-tuple-with-same-product](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1524-string-matching-in-an-array) |
@@ -137,6 +138,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | ------- |
 | [0049-group-anagrams](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -200,6 +202,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3455-minimum-length-of-string-after-operations) |
