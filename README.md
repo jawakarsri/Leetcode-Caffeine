@@ -58,6 +58,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
 |  |
@@ -142,6 +143,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sorting
@@ -194,6 +196,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | ------- |
 | [0043-multiply-strings](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0067-add-binary) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Linked List
 |  |
 | ------- |
