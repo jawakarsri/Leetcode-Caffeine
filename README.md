@@ -195,6 +195,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0050-powx-n) |
 ## Simulation
 |  |
@@ -206,6 +207,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0021-merge-two-sorted-lists) |
 | [0445-add-two-numbers-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0445-add-two-numbers-ii) |
 ## Counting
 |  |
