@@ -49,6 +49,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [2292-counting-words-with-a-given-prefix](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -95,6 +96,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [0407-trapping-rain-water-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
@@ -145,6 +147,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -155,6 +158,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | ------- |
 | [0049-group-anagrams](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0049-group-anagrams) |
 | [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String Matching
 |  |
 | ------- |
