@@ -57,6 +57,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [2792-neighboring-bitwise-xor](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3429-special-array-i) |
@@ -98,6 +99,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [2434-design-a-number-container-system](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | ------- |
 | [0043-multiply-strings](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0067-add-binary) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Linked List
 |  |
