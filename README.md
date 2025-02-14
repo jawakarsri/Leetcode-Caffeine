@@ -38,6 +38,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [1349-check-if-it-is-a-straight-line](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1364-tuple-with-same-product](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1876-map-of-highest-peak) |
@@ -72,6 +73,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2465-shifting-letters-ii) |
@@ -178,6 +180,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [0445-add-two-numbers-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0445-add-two-numbers-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1477-product-of-the-last-k-numbers](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2448-count-number-of-bad-pairs) |
 ## Greedy
 |  |
@@ -267,9 +270,14 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
