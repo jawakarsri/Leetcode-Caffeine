@@ -182,6 +182,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [1349-check-if-it-is-a-straight-line](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -280,4 +281,8 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
