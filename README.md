@@ -84,6 +84,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/0445-add-two-numbers-ii) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
@@ -139,6 +140,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -190,6 +192,7 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1018-largest-perimeter-triangle) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2509-minimize-xor) |
 ## Trie
 |  |
@@ -288,5 +291,6 @@ Fueled by ☕ caffeine and persistence, I tackle algorithms and data structures 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jawakarsri/Leetcode-Caffeine/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
